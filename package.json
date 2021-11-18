@@ -1,6 +1,6 @@
 {
-  "name": "node-google-dfp",
-  "version": "0.3.2",
+  "name": "@20minutes/node-google-dfp",
+  "version": "0.4.0",
   "description": "Google DFP API Helper Library for NodeJS",
   "main": "index.js",
   "devDependencies": {
@@ -14,6 +14,7 @@
     "soap": "^0.43.0"
   },
   "scripts": {
+    "lint": "grunt lint",
     "test": "grunt all"
   },
   "author": "ShinyAds",
@@ -30,12 +31,9 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rubicon-project/node-google-dfp.git"
+    "url": "https://github.com/20minutes/node-google-dfp.git"
   },
-  "bugs": {
-    "url": "https://github.com/rubicon-project/node-google-dfp/issues"
-  },
-  "homepage": "https://github.com/rubicon-project/node-google-dfp",
+  "homepage": "https://github.com/20minutes/node-google-dfp",
   "keywords": [
     "Google",
     "DFP",

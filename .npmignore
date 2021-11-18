@@ -1,8 +1,7 @@
 .github
-.eslintrc
-.jshintrc
-.travis.yml
-gruntfile.js
-spec
 examples
+spec
+.gitignore
+.jshintrc
+gruntfile.js
 yarn.lock
