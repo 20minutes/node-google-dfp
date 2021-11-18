@@ -1,4 +1,3 @@
 node_modules
-*sublime-*
-local-test
 yarn.lock
+yarn-error.log
