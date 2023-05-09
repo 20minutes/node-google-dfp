@@ -1,6 +1,6 @@
 {
   "name": "@20minutes/node-google-dfp",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Google DFP API Helper Library for NodeJS",
   "main": "index.js",
   "devDependencies": {
@@ -10,8 +10,8 @@
     "jasmine-node": "^3.0.0"
   },
   "dependencies": {
-    "google-auth-library": "^7.10.2",
-    "soap": "^0.43.0"
+    "google-auth-library": "^8.8.0",
+    "soap": "^1.0.0"
   },
   "scripts": {
     "lint": "grunt lint",
